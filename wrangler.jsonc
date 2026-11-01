@@ -8,7 +8,7 @@
   ],
   "workers_dev": true,
   "vars": {
-    "ALLOWED_TARGETS": "wss://eagler.carrot-craft.org/",
+    "ALLOWED_TARGETS": "*",
     "NEW_SESSION_CUTOFF": "60000"
   },
   "durable_objects": {
